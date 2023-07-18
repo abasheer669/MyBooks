@@ -1,24 +1,6 @@
-# README
+# MY Books
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My Books is a simple api only rails application to perform crud operation on Books by a user.
+Database design - https://dbdiagram.io/d/64ac025102bd1c4a5ecdedfe
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This training project was used to learn the framework and the best practices!
